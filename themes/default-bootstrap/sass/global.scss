@@ -83,6 +83,7 @@ header {
 		}
 		#header_logo {
 			padding-top: 15px;
+			margin-bottom: 0;
 			@extend .col-sm-4;
 			@media (max-width: $screen-md) {
 				padding-top: 40px;
